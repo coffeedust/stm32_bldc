@@ -1,0 +1,5 @@
+../Core/Src/bldc.c:19:7:roundToDecimal	32	static
+../Core/Src/bldc.c:24:6:initBldc	16	static
+../Core/Src/bldc.c:33:6:setVoltage	16	static
+../Core/Src/bldc.c:37:7:updateBldc	40	static
+../Core/Src/bldc.c:67:6:resetBldc	4	static
